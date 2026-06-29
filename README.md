@@ -70,12 +70,12 @@ Become a Product Engineer and build impactful AI products for students worldwide
 
 ### More Technologies I've Worked With:
 
-**Frontend**: HTML5, CSS, JavaScript, React, Next.js, TailwindCSS, Flutter
-**Backend**: Node.js, Java, Python, FastAPI, Django
-**Databases**: MySQL, PostgreSQL, Supabase
-**Cloud**: Render, Vercel, Netlify
-**AI**: OpenAI APIs, Prompt Engineering, AI Agents
-**Design & Tools**: Figma, Cloudinary, Firebase
+**Frontend**: HTML5, CSS, JavaScript, React, Next.js, TailwindCSS, Flutter              
+**Backend**: Node.js, Java, Python, FastAPI, Django       
+**Databases**: MySQL, PostgreSQL, Supabase          
+**Cloud**: Render, Vercel, Netlify     
+**AI**: OpenAI APIs, Prompt Engineering, AI Agents          
+**Design & Tools**: Figma, Cloudinary, Firebase     
 
 ---
 
