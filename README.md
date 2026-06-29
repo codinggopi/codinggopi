@@ -109,12 +109,41 @@ Become a Product Engineer and build impactful AI products for students worldwide
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github.com/codinggopi" width="0" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gopinath-g&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopinath-g&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=codinggopi&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codinggopi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=codinggopi&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codinggopi&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -134,12 +163,6 @@ Become a Product Engineer and build impactful AI products for students worldwide
   📞 +91 6382081817 &nbsp;|&nbsp;
   💼 <a href="https://linkedin.com/in/gopinath-g-12075732b">linkedin</a> &nbsp;|&nbsp;
   🐙 <a href="https://github.com/codinggopi">github</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopinath-g&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
@@ -174,5 +197,4 @@ Become a Product Engineer and build impactful AI products for students worldwide
 
 ---
 
-*Last updated: 2026-07-01*
 
